@@ -1,0 +1,1 @@
+import{r as l,_ as n,n as d,a as i,c as m,P as a}from"./index-ByfP32PZ.js";var e=l.forwardRef(function(r,s){var c=r.children,o=r.className,t=n(r,["children","className"]);return d.createElement("div",i({className:m("card-footer",o)},t,{ref:s}),c)});e.propTypes={children:a.node,className:a.string};e.displayName="CCardFooter";export{e as C};
