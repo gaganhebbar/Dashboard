@@ -1,1 +1,0 @@
-import{_ as d,a as m,c as p,P as r}from"./index-Csyp1005.js";import t,{forwardRef as i}from"react";var e=i(function(a,s){var c=a.children,l=a.className,o=d(a,["children","className"]);return t.createElement("div",m({className:p("card-group",l)},o,{ref:s}),c)});e.propTypes={children:r.node,className:r.string};e.displayName="CCardGroup";export{e as C};
