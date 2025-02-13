@@ -1,0 +1,1 @@
+import{_ as l,a as d,c as m,P as a}from"./index-Csyp1005.js";import i,{forwardRef as n}from"react";var r=n(function(e,s){var o=e.children,c=e.className,t=l(e,["children","className"]);return i.createElement("div",d({className:m("card-footer",c)},t,{ref:s}),o)});r.propTypes={children:a.node,className:a.string};r.displayName="CCardFooter";export{r as C};
